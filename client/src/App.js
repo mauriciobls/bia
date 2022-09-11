@@ -100,7 +100,7 @@ function App() {
                   onToggle={toggleReminder}
                 />
               ) : (
-                "Sem Nfs Cadastradas"
+                "Sem Tarefas Cadastradas"
               )}
             </>
           )}
