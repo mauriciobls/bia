@@ -100,7 +100,7 @@ function App() {
                   onToggle={toggleReminder}
                 />
               ) : (
-                "Sem NFs Cadastradas"
+                "Tarefas não Cadastrdas"
               )}
             </>
           )}
